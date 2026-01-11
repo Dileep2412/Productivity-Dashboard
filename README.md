@@ -3,7 +3,7 @@ A modern and user-friendly **Productivity Dashboard** built using **HTML, CSS, a
 This dashboard helps users manage daily tasks, plan schedules, stay motivated, and track productivity efficiently.
 
  Live Demo
-👉 https://dileep2412.github.io/Productivity-Dashboard/
+👉 https://productivity-dashboard-gray.vercel.app/
 
  Features
 - 🕒 Live Date & Time
@@ -23,8 +23,12 @@ This dashboard helps users manage daily tasks, plan schedules, stay motivated, a
 - Remix Icon CDN
 
 
-
-
-
-## 📂 Project Structure
-
+📂 Project Structure
+Productivity-Dashboard/
+│
+├── index.html
+├── style.css
+├── script.js
+├── fav/
+│ └── android-chrome-512x512.png
+└── README.md
