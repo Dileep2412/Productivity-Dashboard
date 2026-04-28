@@ -67,14 +67,6 @@ Productivity-Dashboard/
 ├── AeonikTRIAL-Light.otf    # Custom font — Light
 ├── AeonikTRIAL-Regular.otf  # Custom font — Regular
 └── README.md                # Project documentation
-```
-
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your dashboard here — recruiters love visuals!)*
-
 ---
 
 ## 🧠 What I Learned
