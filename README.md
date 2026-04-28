@@ -67,6 +67,8 @@ Productivity-Dashboard/
 ├── AeonikTRIAL-Light.otf    # Custom font — Light
 ├── AeonikTRIAL-Regular.otf  # Custom font — Regular
 └── README.md                # Project documentation
+```
+
 ---
 
 ## 🧠 What I Learned
